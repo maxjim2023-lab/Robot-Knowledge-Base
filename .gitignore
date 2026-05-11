@@ -1,0 +1,20 @@
+# Obsidian workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian local trash
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary Office files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Temporary and backup files
+*.tmp
+*.bak
